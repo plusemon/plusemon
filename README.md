@@ -1,5 +1,5 @@
 ## Hi there 👋
-Myself **Mohammad Emon Khan**. I'm a final year student pursuing Bachelors's in Bussness Administration 🎓 from Govt. Devedra College.
+Myself, **Mohammad Emon Khan**. I'm a final year student pursuing Bachelors's in Business Administration 🎓 from Govt. Devedra College.
 
 🏛 I'm a passionate learner who's always willing to learn and work across technologies.
 
