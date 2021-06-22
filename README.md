@@ -1,6 +1,7 @@
 ## Hi there 👋
 Myself, **Mohammad Emon Khan**.
-Passionate web developer with a flair for creating elegant solutions in the least amount of time to build responsive web application using modern technology.
+
+Passionate web developer with a flair for creating elegant solutions to build responsive web application using modern technology.
 
 🎓 Studing Bachelors's in Business Administration from Govt. Devedra College.
 
