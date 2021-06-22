@@ -12,6 +12,4 @@ Strong grip to build a responsive dynamic website using PHP, JavaScript, jQuery,
 ### Contact:
 Email: bdemon00@gmail.com
 
-Phone: +880-199-53-29-555
-
-Whatsapp: +880-199-53-29-555
+Phone: +88 01995329555 (whatsapp)
