@@ -1,7 +1,6 @@
 ## Hi there 👋
 Myself, **Mohammad Emon Khan**.
 
-Passionate web developer with a flair for creating elegant solutions to build responsive web application using modern technology.
 Passionate full-stack web developer with extensive knowledge and ability to build innovative, creative, & interactive web-based applications using modern technology.
 
 Strong skills to writing clean, efficient, and reusable code for future use. Continue learning the latest technology and continue challenging myself.
