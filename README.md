@@ -1,6 +1,5 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=idemonbd&label=Profile%20views&color=0e75b6&style=flat" alt="idemonbd" /> </p>
-<h1 align="center">Hi 👋, I'm Mohammad Emon Khan</h1> 
-<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Md. Emon Khan</h1> 
+<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Riadah Incubators](https://riadahin.com/en)
 
@@ -24,8 +23,10 @@ Love to work with Laravel, Vue, React web framework to build high scalable web a
 
 Results-oriented Web Application Developer and Online Business Developer with considerable training and enterprise experience in Web site design and layout and in all stages of design, coding, and testing of Web applications, and in the formation, planning, and implementation of online business ventures.
 
+ <hr/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idemonbd" alt="idemonbd" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,4 +48,6 @@ Results-oriented Web Application Developer and Online Business Developer with co
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idemonbd&show_icons=true&locale=en" alt="idemonbd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idemonbd&" alt="idemonbd" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=idemonbd&label=Profile%20views&color=0e75b6&style=flat" alt="idemonbd" /> </p>
+
 
