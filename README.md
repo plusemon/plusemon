@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Vue Core, Vite JS, Node JS, Express JS, React JS**
 
-- 👯 I’m looking to collaborate on [Laravel 9 with Vue 3 SPA Starter](https://github.com/plusemon/laravel-vue-starter)
+- 👯 I’m looking to collaborate on [Laravel File Uploader](https://github.com/plusemon/laravel-file-uploader)
 
-- 🤝 I’m looking for help with [Flexible Toastr JS Alert System for PHP/Laravel](https://github.com/plusemon/notify)
+- 🤝 I’m looking for help with [Notify](https://github.com/plusemon/notify)
 
 - 💬 Ask me about **Laravel, Vue, MySql**
 
