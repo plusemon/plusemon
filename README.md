@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Emon Khan</h1> 
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Riadah Incubators](https://riadahin.com/en)
+- 🔭 I’m currently looking for a job opportunity
 
-- 🌱 I’m currently learning **Vue Core, Vite JS, Node JS, Express JS, React JS**
+- 🌱 I’m currently learning **Flutter, Node, Expres, Next JS**
 
 - 👯 I’m looking to collaborate on [Laravel File Uploader](https://github.com/plusemon/laravel-file-uploader)
 
