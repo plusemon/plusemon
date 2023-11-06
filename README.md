@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Emon Khan</h1> 
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently looking for a job opportunity
+- 🔭 I’m currently working on TheDevStation as Junior Software Engineer
 
 - 🌱 I’m currently learning **Flutter, Node, Expres, Next JS**
 
