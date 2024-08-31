@@ -28,11 +28,10 @@ As a results-driven Web Application Developer and Online Business Strategist, I 
 <a href="https://www.behance.net/plusemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="plusemon" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plusemon&show_icons=true&locale=en&layout=compact" alt="plusemon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=plusemon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="plusemon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plusemon&theme=transparent&hide_border=false" alt="plusemon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plusemon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="plusemon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plusemon&show_icons=true&locale=en" alt="plusemon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plusemon&" alt="plusemon" /></p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=plusemon&label=Profile%20views&color=0e75b6&style=flat" alt="plusemon" /> </p>
 
 
