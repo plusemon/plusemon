@@ -1,28 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mohammad Emon Khan</h1> 
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h1 align="center">Hello there , I'm Mohammad Emon Khan</h1> 
+<h4 align="center">A passionate full-stack web application developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on TheDevStation as a Junior Software Engineer
-
-- 🌱 I’m currently learning **Flutter, Node, Expres, Next JS**
-
-- 👯 I’m looking to collaborate on [Laravel File Uploader](https://github.com/plusemon/laravel-file-uploader)
-
-- 🤝 I’m looking for help with [Notify](https://github.com/plusemon/notify)
-
-- 💬 Ask me about **Laravel, Vue, MySql**
-
-- 📫 How to reach me **bdemon00@gmail.com**
+### Skills:
+- **Languages**: PHP, JavaScript, MySql
+- **Frameworks**: Laravel, Vue | Tailwind, Bootstrap
+- **Plus**: Inertia, Liveware, Alpine, jQuery, JSON, AJAX, RESTful APIs etc.
 
 ### About me
 <p aligh="left">
-Passionate full-stack web developer with extensive knowledge and ability to build innovative, creative, & interactive web-based applications using modern technology.
+I am a dedicated full-stack web developer with a strong passion for creating innovative, interactive web applications using these cutting-edge technologies. My expertise includes writing clean, efficient, and reusable code, and I am committed to staying up-to-date with the latest advancements in the field.
 
-Strong skills to writing clean, efficient, and reusable code for future use. Continue learning the latest technology and continue challenging myself.
+Currently, I am working as a Mid-Level Software Engineer at TheDevStation. I also have extensive remote work experience, collaborating with clients globally to deliver top-quality solutions tailored to their needs. My approach is rooted in dedication, honesty, and a relentless pursuit of excellence.
 
-Love to work with Laravel, Vue, React web framework to build high scalable web application. I work remotely with clients all over the world. My extreme priority is to fulfill the demand of my clients in the best possible way. The quality need to be conventional and extremely reliable, to achieve that I believe dedication and honesty.
-
-Results-oriented Web Application Developer and Online Business Developer with considerable training and enterprise experience in Web site design and layout and in all stages of design, coding, and testing of Web applications, and in the formation, planning, and implementation of online business ventures.
-
+As a results-driven Web Application Developer and Online Business Strategist, I bring valuable experience in all aspects of web design and development—from initial concept to final deployment. Feel free to ask me about Laravel, Vue, or MySQL!
  <hr/>
 
 
