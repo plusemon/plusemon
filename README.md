@@ -3,7 +3,7 @@
 
 ### Skills:
 - **Languages**: PHP, JavaScript, MySql
-- **Frameworks**: Laravel, Vue | Tailwind, Bootstrap
+- **Frameworks**: Laravel, Vue, React, Express | Tailwind, Bootstrap
 - **Plus**: Inertia, Liveware, Alpine, jQuery, JSON, AJAX, RESTful APIs etc.
 
 ### About me
