@@ -93,11 +93,15 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=plusemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plusemon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=plusemon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=plusemon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com?user=plusemon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
