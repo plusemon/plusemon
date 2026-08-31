@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Emon Khan (@plusemon)
 
-### 🚀 Senior Full-Stack Engineer & AI Systems Architect
+### 🚀 Full-Stack Engineer & AI Systems Architect
 
 [![Website](https://img.shields.io/badge/Portfolio-emon.bd-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emon.bd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-plusemon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/plusemon)
